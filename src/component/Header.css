@@ -1,0 +1,17 @@
+.header{
+
+    position: fixed;
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #39445a;
+    text-transform: uppercase;
+    font-size: 25px;
+    height: 50px;
+    padding:10px 0;
+    box-shadow: 0 1px 5px black;
+    color: wheat;
+    z-index: 100;
+}
